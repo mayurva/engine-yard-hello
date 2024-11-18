@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'sinatra', '~> 1.4'
+gem 'sinatra', '~> 4.1'
 gem 'pg'
 gem 'unicorn'
